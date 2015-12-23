@@ -1,3 +1,7 @@
 /.project
-/*.dll
-/*.DLL
+*.dll
+*.DLL
+*.lib
+*.obj
+*.exp
+*.txt
